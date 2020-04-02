@@ -1,0 +1,17 @@
+{
+  "name": "tarea6",
+  "version": "1.0.0",
+  "description": "Backend con MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/index.js"
+  },
+  "author": "Jonathan Corado",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "mongoose": "^5.9.7"
+  }
+}
